@@ -1,0 +1,6 @@
+order_status_id,order_status
+1,Order pending
+2,Order accepted for processing
+3,Order collected
+4,Order on the way
+5,Order delivered
