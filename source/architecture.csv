@@ -1,0 +1,5 @@
+architecture_id,architecture
+1,sigma-delta
+2,string dac
+3,current source
+4,sar

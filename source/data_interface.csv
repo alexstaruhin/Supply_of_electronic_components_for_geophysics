@@ -1,0 +1,5 @@
+data_interface_id,data_interface
+1,dsp
+2,I2S
+3,spi
+4,parallel
